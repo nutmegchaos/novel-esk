@@ -1,6 +1,8 @@
 Documentation not complete ;~;
 ==============================
 
+Project on hold, until nutmegchaos is ready to start learning again
+===================================================================
 
 novel-esk
 =========
